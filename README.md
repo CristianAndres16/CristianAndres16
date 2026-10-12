@@ -1,4 +1,4 @@
-# ¡Hola! Soy Cristian Andrés 👋
+# ¡Hola! Soy Cristian Martinez 👋
 
 🎓 **Estudiante de Ingeniería de Software** en la **I.U. Pascual Bravo**  
 🚀 Actualmente realizo un curso de **Desarrollo Web y Aplicaciones JavaScript Full Stack**.
