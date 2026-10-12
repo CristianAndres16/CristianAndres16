@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola! Soy Cristian Andrés 👋
 
-<!--
-**CristianAndres16/CristianAndres16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería de Software** en la **I.U. Pascual Bravo**  
+🚀 Actualmente realizo un curso de **Desarrollo Web y Aplicaciones JavaScript Full Stack**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+- **Desarrollo Web & Frontend:** HTML5, CSS3, JavaScript (ES6+)
+- **Lenguajes:** JavaScript, Python
+- **En proceso de aprendizaje:** Desarrollo Full Stack (Node.js, Frameworks Web y Bases de Datos)
+
+---
+
+### 📌 Sobre mí
+
+- 🔭 Actualmente trabajando en proyectos web como mi repositorio **[cine](https://github.com/CristianAndres16/cine)**.
+- 🌱 Aprendiendo y reforzando bases de arquitectura web y desarrollo software.
+- 💬 Me apasiona la tecnología y construir soluciones digitales funcionales.
+
+---
+
+### 📬 Conéctate conmigo
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
