@@ -1,4 +1,4 @@
-# ¡Hola! Soy Cristian Martinez 👋
+# ¡Hola! Soy Cristian Andres 👋
 
 🎓 **Estudiante de Ingeniería de Software** en la **I.U. Pascual Bravo**  
 🚀 Actualmente realizo un curso de **Desarrollo Web y Aplicaciones JavaScript Full Stack**.
@@ -23,4 +23,4 @@
 
 ### 📬 Conéctate conmigo
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cristianmartinez0360@gmail.com)
